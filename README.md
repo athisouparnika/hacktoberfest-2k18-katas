@@ -10,7 +10,7 @@ You first need to fork the repository, then go in the directory and run:
 ```bash
 # Install the dependencies
 yarn
-```
+```//happy journey 
 
 ## How to participate
 
